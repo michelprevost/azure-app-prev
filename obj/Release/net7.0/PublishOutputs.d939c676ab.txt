@@ -1,0 +1,12 @@
+C:\projects\tutorials\Azure\azure-app-prev\bin\Release\net7.0\publish\azure-app-prev.exe
+C:\projects\tutorials\Azure\azure-app-prev\bin\Release\net7.0\publish\publish\web.config
+C:\projects\tutorials\Azure\azure-app-prev\bin\Release\net7.0\publish\appsettings.Development.json
+C:\projects\tutorials\Azure\azure-app-prev\bin\Release\net7.0\publish\appsettings.json
+C:\projects\tutorials\Azure\azure-app-prev\bin\Release\net7.0\publish\publish\appsettings.Development.json
+C:\projects\tutorials\Azure\azure-app-prev\bin\Release\net7.0\publish\publish\appsettings.json
+C:\projects\tutorials\Azure\azure-app-prev\bin\Release\net7.0\publish\publish\azure-app-prev.deps.json
+C:\projects\tutorials\Azure\azure-app-prev\bin\Release\net7.0\publish\publish\azure-app-prev.runtimeconfig.json
+C:\projects\tutorials\Azure\azure-app-prev\bin\Release\net7.0\publish\azure-app-prev.dll
+C:\projects\tutorials\Azure\azure-app-prev\bin\Release\net7.0\publish\azure-app-prev.deps.json
+C:\projects\tutorials\Azure\azure-app-prev\bin\Release\net7.0\publish\azure-app-prev.runtimeconfig.json
+C:\projects\tutorials\Azure\azure-app-prev\bin\Release\net7.0\publish\azure-app-prev.pdb

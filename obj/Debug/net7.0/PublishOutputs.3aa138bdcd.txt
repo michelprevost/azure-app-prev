@@ -1,0 +1,7 @@
+C:\projects\tutorials\Azure\azure-app-prev\publish\azure-app-prev.exe
+C:\projects\tutorials\Azure\azure-app-prev\publish\appsettings.Development.json
+C:\projects\tutorials\Azure\azure-app-prev\publish\appsettings.json
+C:\projects\tutorials\Azure\azure-app-prev\publish\azure-app-prev.dll
+C:\projects\tutorials\Azure\azure-app-prev\publish\azure-app-prev.deps.json
+C:\projects\tutorials\Azure\azure-app-prev\publish\azure-app-prev.runtimeconfig.json
+C:\projects\tutorials\Azure\azure-app-prev\publish\azure-app-prev.pdb
